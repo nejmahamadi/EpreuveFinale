@@ -2,10 +2,13 @@
     font-size: 1em; 
 }
 
-.wp-block-image{
-   
-}
 
 .entry .entry-content a{
     text-decoration:none;
+    font-family: 'Montserrat';
+    color:black;
+}
+
+img:hover{
+    opacity: 0.5;
 }
